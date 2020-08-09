@@ -161,7 +161,22 @@ table {
 
 .game {
   overflow: hidden;
-  max-width: 600px;
-  max-height: 450px;
+  margin: 100px auto;
+  max-width: 800px;
+  max-height: 650px;
   position: relative;
+  border: 1px solid black;
+}
+.container {
+  margin: 50px auto;
+  text-align: center;
+}
+
+.superHeading {
+  font-size: 36px;
+  color: red;
+}
+.superPara {
+  margin: 12px 0;
+  font-size: 24px;
 }
